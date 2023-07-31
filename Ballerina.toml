@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["greetservice"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Service","Category/Service","Internal/http"]
+  name = "greetservice"
+  org = "choreointegrationteam"
+  version = "3.1.1"
+
